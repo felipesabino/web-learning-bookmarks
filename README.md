@@ -44,7 +44,7 @@
      - [Remy Sharp](https://twitter.com/rem)
 - **Ruby**
   - Courses
-     - https://onemonthrails.com/
+     - https://onemonthrails.com/ ($)
      - http://www.codeschool.com/paths/ruby
      - http://www.codecademy.com/tracks/ruby
      - http://ruby.railstutorial.org/
