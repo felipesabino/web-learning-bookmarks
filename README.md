@@ -18,6 +18,8 @@
      - http://www.codecademy.com/tracks/javascript
      - http://www.codecademy.com/tracks/jquery
      - http://www.codeschool.com/paths/javascript ($)
+  - Articles
+     - [Basic JavaScript: an introduction to the language](http://www.2ality.com/2013/06/basic-javascript.html)
   - Videos
      - [Crockford on JavaScript: A Public Lecture Series at Yahoo! - YUI Blog](http://www.yuiblog.com/crockford/)
      - [Douglas Crockford: The JavaScript Programming Language](http://www.youtube.com/watch?v=v2ifWcnQs6M&list=PL5586336C26BDB324)
