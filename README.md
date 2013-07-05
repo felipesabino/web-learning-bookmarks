@@ -1,8 +1,9 @@
 # Web Development Basics Learning Bookmarks
 
-- **Web Basics**
+### Web Basics
  - [Udacity Web Development](https://www.udacity.com/course/cs253)
-- **HTML / CSS**
+
+### HTML / CSS
   - http://learn.shayhowe.com/
   - Courses
      - http://learncss.tutsplus.com/ 
@@ -13,7 +14,8 @@
   - Who to follow
      - [Chris Coyier](https://twitter.com/chriscoyier)
      - [Ryan Seddon](https://twitter.com/ryanseddon) 
-- **JavaScript**
+
+### JavaScript
   - Courses
      - http://www.codecademy.com/tracks/javascript
      - http://www.codecademy.com/tracks/jquery
@@ -44,7 +46,8 @@
      - [Paul Lewis](https://twitter.com/aerotwist)
      - [Colt McAnlis](https://twitter.com/duhroach)
      - [Remy Sharp](https://twitter.com/rem)
-- **Ruby**
+
+### Ruby
   - Courses
      - http://www.codecademy.com/tracks/ruby
      - http://ruby.railstutorial.org/
@@ -53,7 +56,8 @@
      - http://www.codeschool.com/paths/ruby ($)
   - Who to follow
      - [Brandur](https://twitter.com/brandur)
-- **.NET**
+
+### .NET
   - Courses
      - [MVC Video Training from Pluralsight](http://www.asp.net/mvc/pluralsight)
   - Videos
@@ -64,7 +68,8 @@
   - Who to follow
      - [Scott Hanselman](https://twitter.com/shanselman)
      - [Jon Skeet](https://twitter.com/jonskeet)
-- **NodeJS**
+
+### NodeJS
   - [The Node Beginner Book](http://www.nodebeginner.org/)
   - Courses
      - [NODE TUTS](http://nodetuts.com/)
@@ -74,18 +79,22 @@
   - Blogs
      - http://tjholowaychuk.com/
   - Source: http://stackoverflow.com/a/5511507/429521
-- **Git**
+
+### Git
   - http://try.github.com/
   - Courses
      - http://www.codeschool.com/paths/electives#git-basics
   - Videos
      - [Tech Talk: Linus Torvalds on git](http://www.youtube.com/watch?v=4XpnKHJAok8)
-- **MongoDB**
+
+### MongoDB
   - [10gen Presentations](http://www.10gen.com/presentations)
   - [Visual Guide to NoSQL Systems](http://blog.beany.co.kr/archives/275)
 
 
 ---
+
+### Extras
 
 Extras: https://github.com/dypsilon/frontend-dev-bookmarks :0
 
