@@ -6,8 +6,8 @@
   - http://learn.shayhowe.com/
   - Courses
      - http://learncss.tutsplus.com/ 
-     - http://www.codeschool.com/paths/html-css
      - http://www.codecademy.com/tracks/web
+     - http://www.codeschool.com/paths/html-css ($)
   - Blogs
      - http://web-design-weekly.com/
   - Who to follow
@@ -15,9 +15,9 @@
      - [Ryan Seddon](https://twitter.com/ryanseddon) 
 - **JavaScript**
   - Courses
-     - http://www.codeschool.com/paths/javascript
      - http://www.codecademy.com/tracks/javascript
      - http://www.codecademy.com/tracks/jquery
+     - http://www.codeschool.com/paths/javascript ($)
   - Videos
      - [Crockford on JavaScript: A Public Lecture Series at Yahoo! - YUI Blog](http://www.yuiblog.com/crockford/)
      - [Douglas Crockford: The JavaScript Programming Language](http://www.youtube.com/watch?v=v2ifWcnQs6M&list=PL5586336C26BDB324)
@@ -44,11 +44,11 @@
      - [Remy Sharp](https://twitter.com/rem)
 - **Ruby**
   - Courses
-     - https://onemonthrails.com/ ($)
-     - http://www.codeschool.com/paths/ruby
      - http://www.codecademy.com/tracks/ruby
      - http://ruby.railstutorial.org/
      - http://railsforzombies.org/
+     - https://onemonthrails.com/ ($)
+     - http://www.codeschool.com/paths/ruby ($)
   - Who to follow
      - [Brandur](https://twitter.com/brandur)
 - **.NET**
