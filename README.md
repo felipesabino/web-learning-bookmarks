@@ -73,6 +73,7 @@
   - [The Node Beginner Book](http://www.nodebeginner.org/)
   - Courses
      - [NODE TUTS](http://nodetuts.com/)
+     - [Real Time Web App with Node.js - Code School](http://www.codeschool.com/courses/real-time-web-with-nodejs) $
   - Videos
      - [Introduction to Node.js with Ryan Dahl](http://www.youtube.com/watch?v=jo_B4LTHi3I)
      - [Server-side JavaScript with Node, Connect & Express](http://vimeo.com/18077379)
