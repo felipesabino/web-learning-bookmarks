@@ -86,6 +86,7 @@
   - Source: http://stackoverflow.com/a/5511507/429521
 
 ### Git
+  - [git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
   - http://try.github.com/
   - http://pcottle.github.io/learnGitBranching/
   - Courses
