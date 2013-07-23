@@ -22,6 +22,7 @@
      - http://www.codeschool.com/paths/javascript ($)
   - Articles
      - [Basic JavaScript: an introduction to the language](http://www.2ality.com/2013/06/basic-javascript.html)
+     - [JavaScript for Cats](http://jsforcats.com/)
   - Videos
      - [Crockford on JavaScript: A Public Lecture Series at Yahoo! - YUI Blog](http://www.yuiblog.com/crockford/)
      - [Douglas Crockford: The JavaScript Programming Language](http://www.youtube.com/watch?v=v2ifWcnQs6M&list=PL5586336C26BDB324)
@@ -32,11 +33,14 @@
      - http://html5weekly.com/
      - http://ejohn.org/category/blog/
   - Books
+     - http://jsbooks.revolunet.com/
      - http://eloquentjavascript.net/
+     - [jQuery Fundamentals](http://jqfundamentals.com/)
   - Web Debugging Tools
      - http://discover-devtools.codeschool.com/ 
   - Who to follow
      - [Paul Irish](https://twitter.com/paul_irish)
+     - [Paul Irish (Google+)](https://plus.google.com/+PaulIrish/posts)
      - [Alexis Deveria](https://twitter.com/fyrd)
      - [Addy Osmani](https://plus.google.com/+AddyOsmani)
      - [Matt Seeley](https://twitter.com/innerhtml)
@@ -48,6 +52,7 @@
      - [Remy Sharp](https://twitter.com/rem)
 
 ### Ruby
+  - http://lurnq.com/lesson/The-Ultimate-Guide-to-Learning-Ruby-for-Free-Resources-Tools-and-Tips/
   - Courses
      - http://www.codecademy.com/tracks/ruby
      - http://ruby.railstutorial.org/
@@ -82,7 +87,9 @@
   - Source: http://stackoverflow.com/a/5511507/429521
 
 ### Git
+  - [git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
   - http://try.github.com/
+  - http://pcottle.github.io/learnGitBranching/
   - Courses
      - http://www.codeschool.com/paths/electives#git-basics
   - Videos
