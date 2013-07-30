@@ -5,6 +5,7 @@
 
 ### HTML / CSS
   - http://learn.shayhowe.com/
+  - [CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
   - Courses
      - http://learncss.tutsplus.com/ 
      - http://www.codecademy.com/tracks/web
@@ -13,7 +14,7 @@
      - http://web-design-weekly.com/
   - Who to follow
      - [Chris Coyier](https://twitter.com/chriscoyier)
-     - [Ryan Seddon](https://twitter.com/ryanseddon) 
+     - [Ryan Seddon](https://twitter.com/ryanseddon)
 
 ### JavaScript
   - Courses
