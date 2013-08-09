@@ -5,6 +5,7 @@
 
 ### HTML / CSS
   - http://learn.shayhowe.com/
+  - [CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
   - Courses
      - http://learncss.tutsplus.com/ 
      - http://www.codecademy.com/tracks/web
@@ -13,7 +14,7 @@
      - http://web-design-weekly.com/
   - Who to follow
      - [Chris Coyier](https://twitter.com/chriscoyier)
-     - [Ryan Seddon](https://twitter.com/ryanseddon) 
+     - [Ryan Seddon](https://twitter.com/ryanseddon)
 
 ### JavaScript
   - Courses
@@ -50,6 +51,10 @@
      - [Paul Lewis](https://twitter.com/aerotwist)
      - [Colt McAnlis](https://twitter.com/duhroach)
      - [Remy Sharp](https://twitter.com/rem)
+
+### Front-end
+  - [How to keep up to date on front-end technologies](http://uptodate.frontendrescue.org/)
+  - [Como manter-se atualizado nas tecnologias front-end](http://oswaldoacauan.github.io/keep-up-to-date-brazuca/)
 
 ### Ruby
   - http://lurnq.com/lesson/The-Ultimate-Guide-to-Learning-Ruby-for-Free-Resources-Tools-and-Tips/
