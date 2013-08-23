@@ -81,6 +81,7 @@
 
 ### NodeJS
   - [The Node Beginner Book](http://www.nodebeginner.org/)
+  - [An absolute beginner's guide to Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
   - Courses
      - [NODE TUTS](http://nodetuts.com/)
      - [Real Time Web App with Node.js - Code School](http://www.codeschool.com/courses/real-time-web-with-nodejs) $
