@@ -20,8 +20,11 @@
   - Courses
      - http://www.codecademy.com/tracks/javascript
      - http://www.codecademy.com/tracks/jquery
+     - http://net.tutsplus.com/tutorials/javascript-ajax/javascript-from-null-video-series/
+     - http://learn.appendto.com/
      - http://www.codeschool.com/paths/javascript ($)
   - Articles
+     - [The Best Way to Learn JavaScript](http://net.tutsplus.com/tutorials/javascript-ajax/the-best-way-to-learn-javascript/)
      - [Basic JavaScript: an introduction to the language](http://www.2ality.com/2013/06/basic-javascript.html)
      - [JavaScript for Cats](http://jsforcats.com/)
   - Videos
