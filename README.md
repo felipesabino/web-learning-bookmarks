@@ -2,6 +2,7 @@
 
 ### Web Basics
  - [Udacity Web Development](https://www.udacity.com/course/cs253)
+ - [Conceptual Introduction to Web Development](http://milanlandaverde.com/blog/2013/10/20/conceptual-introduction-to-web-development/)
 
 ### HTML / CSS
   - http://learn.shayhowe.com/
