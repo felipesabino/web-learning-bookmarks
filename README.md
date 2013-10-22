@@ -97,7 +97,8 @@
   - Source: http://stackoverflow.com/a/5511507/429521
 
 ### Git
-  - [git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+  - [git - Guia Prático (pt-br)](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+  - [Github Trainning - Git Resources](http://training.github.com/resources/videos/)
   - http://try.github.com/
   - http://pcottle.github.io/learnGitBranching/
   - Courses
