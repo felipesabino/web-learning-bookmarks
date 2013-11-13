@@ -57,8 +57,12 @@
      - [Remy Sharp](https://twitter.com/rem)
 
 ### Front-end
-  - [How to keep up to date on front-end technologies](http://uptodate.frontendrescue.org/)
-  - [Como manter-se atualizado nas tecnologias front-end](http://oswaldoacauan.github.io/keep-up-to-date-brazuca/)
+  - General
+    - [How to keep up to date on front-end technologies](http://uptodate.frontendrescue.org/)
+    - [Como manter-se atualizado nas tecnologias front-end](http://oswaldoacauan.github.io/keep-up-to-date-brazuca/)
+  - DOM
+    - [What is the DOM?](https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference/Introduction)
+    - [An Introduction To DOM Events](http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/)
 
 ### Ruby
   - http://lurnq.com/lesson/The-Ultimate-Guide-to-Learning-Ruby-for-Free-Resources-Tools-and-Tips/
