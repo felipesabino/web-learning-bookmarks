@@ -59,7 +59,7 @@
 ### Front-end
   - General
     - [How to keep up to date on front-end technologies](http://uptodate.frontendrescue.org/)
-    - [Como manter-se atualizado nas tecnologias front-end](http://oswaldoacauan.github.io/keep-up-to-date-brazuca/)
+    - [pt-BR - Como se manter atualizado nas tecnologias front-end](http://oswaldoacauan.github.io/keep-up-to-date-brazuca/)
   - DOM
     - [What is the DOM?](https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference/Introduction)
     - [An Introduction To DOM Events](http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/)
@@ -101,10 +101,10 @@
   - Source: http://stackoverflow.com/a/5511507/429521
 
 ### Git
-  - [git - Guia Prático (pt-br)](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
   - [Github Trainning - Git Resources](http://training.github.com/resources/videos/)
   - http://try.github.com/
   - http://pcottle.github.io/learnGitBranching/
+  - [pt-BR - Git - Guia Prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
   - Courses
      - http://www.codeschool.com/paths/electives#git-basics
   - Videos
