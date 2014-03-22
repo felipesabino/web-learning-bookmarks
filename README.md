@@ -113,6 +113,7 @@
 ### MongoDB
   - [10gen Presentations](http://www.10gen.com/presentations)
   - [Visual Guide to NoSQL Systems](http://blog.beany.co.kr/archives/275)
+  - [Guide to MongoDB for startups](http://www.optinidus.com/blogs/guide-to-mongodb-for-startups/)
 
 
 ---
