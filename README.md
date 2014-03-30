@@ -13,6 +13,8 @@
      - http://www.codeschool.com/paths/html-css ($)
   - Blogs
      - http://web-design-weekly.com/
+  - Learning Games
+     - [Css Dinner](http://flukeout.github.io/)
   - Who to follow
      - [Chris Coyier](https://twitter.com/chriscoyier)
      - [Ryan Seddon](https://twitter.com/ryanseddon)
