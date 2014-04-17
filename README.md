@@ -7,6 +7,7 @@
 ### HTML / CSS
   - http://learn.shayhowe.com/
   - [CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
+  - [CSS Vocabulary](http://pumpula.net/p/apps/css-vocabulary/)
   - Courses
      - http://learncss.tutsplus.com/ 
      - http://www.codecademy.com/tracks/web
