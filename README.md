@@ -105,6 +105,7 @@
 
 ### Git
   - [Github Trainning - Git Resources](http://training.github.com/resources/videos/)
+  - http://mrchlblng.me/2014/09/practical-git-introduction/
   - http://try.github.com/
   - [A Hacker’s Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git)
   - http://pcottle.github.io/learnGitBranching/
