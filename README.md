@@ -1,5 +1,7 @@
 # Web Development Basics Learning Bookmarks
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/felipesabino/web-learning-bookmarks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Web Basics
  - [Udacity Web Development](https://www.udacity.com/course/cs253)
  - [Conceptual Introduction to Web Development](http://milanlandaverde.com/blog/2013/10/20/conceptual-introduction-to-web-development/)
